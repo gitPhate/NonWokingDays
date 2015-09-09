@@ -2,8 +2,6 @@ public static class NonWorkingDays
 {
     public static bool IsHoliday(DateTime day)
     {
-        day.AssertArgumentNotNull("day");
-
         return
             NonWorkingDays
                 .GetNonWorkingDays(day.Year)
