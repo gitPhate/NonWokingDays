@@ -1,6 +1,6 @@
 # NonWokingDays
 Small static class to find holidays during year.<br />
-The library provides the **Italian** holdays, as it has been created for business puproses.<br />
+The library provides the **Italian** holdays, as it has been created for business purposes.<br />
 It also has a method for the Easter calculation.
 
 ## Usage
